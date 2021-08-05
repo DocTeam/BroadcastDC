@@ -1,0 +1,8 @@
+name: BroadcastDC
+version: 1.0
+author: 9e_Docteur
+main: fr.ninedocteur.broadcastdc.BroadcastDCMain
+commands:
+  broadcast:
+    description: Send a message in the chat
+    permission: simplebroadcast.send
