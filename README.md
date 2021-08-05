@@ -4,3 +4,6 @@ It is open source so you can edit the plugin if you want
 
 ## Where can i download the plugin for my server?
 Here is the link to our plugin : https://dev.bukkit.org/projects/broadcastdc
+
+## I have a suggestion/problem, how can i contact you?
+Here : docteam@gmail.com
