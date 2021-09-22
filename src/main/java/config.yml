@@ -1,0 +1,7 @@
+#This is the prefix of the plugin
+Prefix: "§3[§b§lBroadcastDC§3]§r"
+
+
+#This is the broadcast messsage prefix
+#Example : [BroadcastMessage] <your message>
+BroadcastMessage: "§3[§b§lBroadcast§3]§r"

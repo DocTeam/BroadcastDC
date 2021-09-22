@@ -1,0 +1,6 @@
+name: Broadcastdc
+version: '${project.version}'
+main: broadcastdc.broadcastdc.Broadcastdc
+api-version: 1.17
+authors: [ 9e_Docteur ]
+description: BroadcastDC is a plugin that allow you to send a message in the chat to everyone!
